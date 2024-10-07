@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Carlos_Ibanez_DAM2/1.0.0": {
+        "runtime": {
+          "Carlos_Ibanez_DAM2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carlos_Ibanez_DAM2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

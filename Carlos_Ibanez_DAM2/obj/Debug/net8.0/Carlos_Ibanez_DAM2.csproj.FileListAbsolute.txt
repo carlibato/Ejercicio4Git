@@ -1,0 +1,14 @@
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\bin\Debug\net8.0\Carlos_Ibanez_DAM2.exe
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\bin\Debug\net8.0\Carlos_Ibanez_DAM2.deps.json
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\bin\Debug\net8.0\Carlos_Ibanez_DAM2.runtimeconfig.json
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\bin\Debug\net8.0\Carlos_Ibanez_DAM2.dll
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\bin\Debug\net8.0\Carlos_Ibanez_DAM2.pdb
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\Carlos_Ibanez_DAM2.GeneratedMSBuildEditorConfig.editorconfig
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\Carlos_Ibanez_DAM2.AssemblyInfoInputs.cache
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\Carlos_Ibanez_DAM2.AssemblyInfo.cs
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\Carlos_Ibanez_DAM2.csproj.CoreCompileInputs.cache
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\Carlos_Ibanez_DAM2.dll
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\refint\Carlos_Ibanez_DAM2.dll
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\Carlos_Ibanez_DAM2.pdb
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\Carlos_Ibanez_DAM2.genruntimeconfig.cache
+I:\rafa\Carlos_Ibanez_DAM2\Carlos_Ibanez_DAM2\obj\Debug\net8.0\ref\Carlos_Ibanez_DAM2.dll
